@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an Backend Developer @FirstLogicMetaLab<br>👯 I’m Really Passionate about Full stack Development,Devops<br>🌱 I’m currently learning new stuffs<br>⚡ Fun fact
+🔭 I’m currently working as an Backend Developer @FirstLogicMetaLab<br>👯 I’m Really Passionate about Full stack Development,Devops<br>🌱 I’m currently learning new stuffs
 
 
 ## 🌐 Socials:
